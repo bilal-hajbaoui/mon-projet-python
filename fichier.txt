@@ -1,2 +1,3 @@
 Version initiale
 Modification depuis master
+Modification depuis feature-conflict
